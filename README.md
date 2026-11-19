@@ -8,6 +8,8 @@ Originally released on [SourceForge](https://sourceforge.net/projects/pyisocalc/
 in 2013 (Python 2, command line only). Version 0.9 is a Python 3 port with a Tk GUI
 and an improved algorithm.
 
+![pyisocalc showing the isotope pattern of W6O19 2-](docs/screenshot.png)
+
 ## Features
 
 - Formula input with (non-nested) parentheses, e.g. `Ca(OH)2` or `K8(Nb6O19)`.
